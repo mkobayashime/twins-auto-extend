@@ -18,7 +18,7 @@
       return Number(document.getElementById("timeout-timer").innerHTML)
     }
     
-    const extendlimit = () => {
+    const extendLimit = () => {
       button.click()
 
       if(getRemainingTime() !== 30) {
@@ -27,7 +27,7 @@
     }
 
     window.setInterval(() => {
-      extendlimit()
+      extendLimit()
     }, 300000)
   }
 })();
