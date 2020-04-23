@@ -1,4 +1,4 @@
-# twins-auto-extend
+# TWINS Auto Extend
 
 Browser userscript to automatically extend the time limit of 30min in [TWINS](https://twins.tsukuba.ac.jp/)
 
